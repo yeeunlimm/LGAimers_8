@@ -1,0 +1,6 @@
+model/
+*.zip
+*.safetensors
+.ipynb_checkpoints/
+__pycache__/
+.env
